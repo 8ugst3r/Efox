@@ -1,0 +1,5 @@
+{
+  "ap_dongle": "TP-Link",
+  "cap_dir": "/vms/targets/wpa2",
+  "wordlists_dir": "/vms/wordlists"
+}
