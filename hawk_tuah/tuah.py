@@ -15,8 +15,32 @@ def load_config(file_path):
 
 def main(config_param):
     print('loading wordlists ...\n-----')
+
+    # load kali wordlists
+    wordlists_kali = [
+        '/usr/share/set/src/fasttrack/wordlist.txt',
+        '/usr/share/fern-wifi-cracker/extras/wordlists/common.txt',
+        '/usr/share/fern-wifi-cracker/extras/wordlists/rockyou.txt',
+        '/usr/share/john/password.lst',
+        '/usr/share/legion/wordlists/passwords.txt',
+        '/usr/share/metasploit-framework/data/wordlists/password.lst',
+        '/usr/share/nmap/nselib/data/passwords.lst',
+        '/usr/share/wordlists/rockyou.txt.gz',
+        '/usr/share/dict/wordlist-probable.txt'
+    ]
+
     wordlists_dir=config_param.get('wordlists_dir')
-    wordlists = os.listdir(wordlists_dir)
+
+    wordlists_custom = [
+        os.path.join(wordlists_dir, f)
+        for f in os.listdir(wordlists_dir)
+        if os.path.isfile(os.path.join(wordlists_dir, f))
+    ]
+
+    wordlists = wordlists_kali + wordlists_custom
+
+    # print(f'wordlists init: {wordlists}')
+
     wordlists.sort()
     for wordlist in wordlists:
         print(wordlist)
@@ -56,7 +80,9 @@ def main(config_param):
 
         for wordlist in wordlists:
             cap_file=f'{cap_dir}/{target}/{latest_cap_file}'
-            wordlist=f'{wordlists_dir}/{wordlist}'
+            wordlist=f'{wordlist}'
+
+            
             command=(
                 'sudo hashcat '
                 f'--potfile-disable -m 22000 {cap_file} {wordlist} | '
