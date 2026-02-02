@@ -1,0 +1,166 @@
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/001_cracked.txt.gz)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/002_rockyou.zip)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/003_probable_wpa.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/004_czech.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/005_most_used_passwords.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/006_bt4_passwords.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/007_names.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/008_facebook_phished.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/008_hotmail.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/009_hugedb.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/010_Words.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/011_davajj_ultimate_wordlist.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/012_argon-outher.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/013_english.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/014_oCustom-WPA.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/015_Some_passw_12.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/016_Some_passw_18.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/017_Some_passw_21.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/018_Some_passw_23.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/019_Some_passw_24.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/020_Some_passw_25.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/021_Some_passw_26.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/022_Some_passw_27.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/023_Some_passw_28.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/024_wordlist.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/025_word.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/026_wpa.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/027_Words.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/028_words.czech.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/029_wordlist-final.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/030_passwordlist.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/031_PASSWORD_WORDLIST.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/032_names.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/033_length04.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/034_length05.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/035_length06.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/037_length07.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/038_length08.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/039_Unabr.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/040_movie-characters.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/041_DICT.TXT)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/042_10million_upper_lower_case_num_1-9_special_chars.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/043_words.afrikaans.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/044_words.croatian.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/045_words.danish.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/046_words.dutch.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/047_words.english.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/048_words.finnish.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/049_words.german.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/050_words.irish.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/051_words.italian.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/052_words.latin.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/053_words.norwegian.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/054_words.polish.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/055_words.spanish.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/056_words.swedish.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/057_8dig5milup.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/058_8dig5milup2.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/059_8dig5milup3.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/060_8dig5miluplow.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/061_8dig5miluplow2.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/062_8dig5miluplow3.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/063_8dig10millow.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/064_8dig10millow2.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/065_8dig10milup.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/066_8dig10milup2.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/067_8dig10miluplow.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/068_8dig10miluplow2.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/069_8dig10miluplow3.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/070_10dig1miluplow_tried.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/080_10dig5milup1.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/081_10dig5milup2.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/082_10dig5milup3.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/083_10dig5miluplow.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/084_10dig5miluplow2.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/085_10dig5miluplow3.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/086_10dig5miluplow4.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/087_10dig10milup.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/088_10dig10milup2.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/089_10dig10miluplow.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/090_10dig10miluplow2.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/091_10dig10miluplow3.txt)
+Status...........: Exhausted
+Guess.Base.......: File (/media/user/lightsaber/wordlists/092_10dig10miluplow4.txt)
